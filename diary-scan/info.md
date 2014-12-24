@@ -33,10 +33,10 @@ preserved indefinitely.
 
 Physical characteristics of the diary:
 --------------------------------------
-Width: approximately 6 1/8 inches.
-Height: approximately 7 5/8 inches.
-Depth: approximately 1/2 inch.
-Number of Pages: 92 (excluding the front and back covers and the
+* Width: approximately 6 1/8 inches.
+* Height: approximately 7 5/8 inches.
+* Depth: approximately 1/2 inch.
+* Number of Pages: 92 (excluding the front and back covers and the
 missing pages identified below).
 
 While worn, the diary is still very readable with few exceptions. The
