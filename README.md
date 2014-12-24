@@ -1,4 +1,5 @@
 philemonandminerva
 ==================
 
-Repository for information on Philemon and Minerva Morriss
+Repository for information on the Oregon pioneer's Philemon and
+Minerva Morriss.
